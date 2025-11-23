@@ -3,4 +3,3 @@ function page() {
 }
 
 export default page;
-contact;
